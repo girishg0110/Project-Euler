@@ -1,4 +1,4 @@
-# Description: 
+# Description: Find the sum of all the primes below two million.
 
 import math
 import numpy as np
