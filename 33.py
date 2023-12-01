@@ -1,4 +1,4 @@
-# Description: Find the sum of all products whose multiplicand/multiplier/product identity can be written as a 1 through 9 pandigital.
+# Description: If the product of these four fractions is given in its lowest common terms, find the value of the denominator.
 
 import math
 import numpy as np
